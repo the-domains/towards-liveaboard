@@ -1,0 +1,30 @@
+name: Towards Liveaboard
+layout_spectrum: 0.24867974780393431
+typography_spectrum: 0.09589548482928423
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.6324765590139769
+  lightness: 0.6840825775300212
+  saturation: 0.44486683735380694
+  rhythmicContrast: 0.4396433244196891
+title: ''
+description: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
+navigation:
+  - name: About Us
+    id: b2c6cb02-1cec-4de7-9b14-12538dbd3fc0
+    type: content
+github: true
