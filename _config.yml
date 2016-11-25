@@ -21,6 +21,11 @@ color:
   rhythmicContrast: 0.041294013433213726
 title: Towards Liveaboard
 description: 'The dream to live on a sailboat, and the journey to get there'
+content:
+- id: '8fc002f0-db0e-4840-a204-52a567884ff5'
+  type: 'image'
+  src: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/128058d2-2942-47d7-b397-5093b7f220ea.png'
+  html: '<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/128058d2-2942-47d7-b397-5093b7f220ea.png">'
 author:
   name: ''
   url: ''
