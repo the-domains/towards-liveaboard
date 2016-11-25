@@ -27,10 +27,4 @@ navigation:
   - name: About Us
     id: b2c6cb02-1cec-4de7-9b14-12538dbd3fc0
     type: content
-  - name: Suski
-    url: 'http://wanderingmonster.net'
-    type: external
-  - name: Henri
-    url: 'http://bergie.iki.fi'
-    type: external
 github: true
