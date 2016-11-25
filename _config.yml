@@ -1,5 +1,9 @@
+name: Towards Liveaboard
 layout_spectrum: 0.4932472224435815
 typography_spectrum: 0.19966821573812993
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#1A1F2B'
@@ -11,10 +15,6 @@ color:
   lightness: 0.22574648814128326
   saturation: 0.365142683034191
   rhythmicContrast: 0.041294013433213726
-name: Towards Liveaboard
-opengraph:
-  type: ''
-  appId: ''
 title: ''
 description: ''
 author:
@@ -27,4 +27,10 @@ navigation:
   - name: About Us
     id: b2c6cb02-1cec-4de7-9b14-12538dbd3fc0
     type: content
+  - name: Suski
+    url: 'http://wanderingmonster.net'
+    type: external
+  - name: Henri
+    url: 'http://bergie.iki.fi'
+    type: external
 github: true
