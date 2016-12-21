@@ -18,18 +18,32 @@ color:
   brandStrength: 0.09717747148061816
   lightness: 0.22574648814128326
   saturation: 0.365142683034191
-  rhythmicContrast: 0.042294013433213726
+  rhythmicContrast: 0.04229401343321373
 title: Towards Liveaboard
 description: 'The dream to live on a sailboat, and the journey to get there'
 content:
-- id: '8fc002f0-db0e-4840-a204-52a567884ff5'
-  type: 'image'
-  src: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/128058d2-2942-47d7-b397-5093b7f220ea.png'
-  html: '<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/128058d2-2942-47d7-b397-5093b7f220ea.png">'
-- id: '0d3308fa-2d4f-4444-a022-19b8abd8775f'
-  type: 'image'
-  src: 'https://s3-us-west-2.amazonaws.com/the-grid-img/p/fafa7a500ae6e6dc26467f306183efad30c37ad7.jpg'
-  html: '<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fafa7a500ae6e6dc26467f306183efad30c37ad7.jpg">'
+  - id: 8fc002f0-db0e-4840-a204-52a567884ff5
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/128058d2-2942-47d7-b397-5093b7f220ea.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/128058d2-2942-47d7-b397-5093b7f220ea.png
+    metadata: {}
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: 0d3308fa-2d4f-4444-a022-19b8abd8775f
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fafa7a500ae6e6dc26467f306183efad30c37ad7.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/fafa7a500ae6e6dc26467f306183efad30c37ad7.jpg
+    metadata: {}
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 author:
   name: ''
   url: ''
